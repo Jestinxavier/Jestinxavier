@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Jestin Xavier
 
-<!--
-**Jestinxavier/Jestinxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | React Native Developer  
+🚀 4+ years experience in Web & Mobile Development  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- React
+- React Native
+- Node.js
+- Express
+- MongoDB
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+Portfolio: https://dynamicpotfoliyo.web.app
