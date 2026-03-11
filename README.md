@@ -9,40 +9,84 @@
 
 ## 🚀 About Me
 
-- 💻 4+ years experience in **Web & Mobile Development**
-- ⚡ Specialized in **MERN Stack**
-- 📱 Experienced in **React Native mobile apps**
-- 🔥 Building scalable backend systems using **Node.js**
-- 🌱 Currently learning **System Design & Advanced Backend**
+* 💻 4+ years experience in **Web & Mobile Development**
+* ⚡ Specialized in **MERN Stack**
+* 📱 Experienced in **React Native mobile apps**
+* 🔥 Building scalable backend systems using **Node.js**
+* 🌱 Currently learning **System Design & Advanced Backend**
 
 ---
 
 # 🛠 Tech Stack
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,js,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,js,tailwind,nextjs,vite" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Mobile
+
 <p>
 <img src="https://skillicons.dev/icons?i=react" /> React Native
 </p>
 
 ### Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
+
+---
+
+# 🚀 Latest Project
+
+<p align="center">
+<img src="https://infantscare.in/logo/logo.svg" width="200"/>
+</p>
+
+### 🛒 InfantsCare – E-commerce Platform
+
+🔗 Live Website: https://infantscare.in/
+
+A **full-featured e-commerce platform** built for selling clothing products with multiple variants and dynamic content management.
+
+### Key Features
+
+* Product listing with **size and variant options**
+* **Coupon and offer management**
+* **Dynamic CMS pages**
+* Secure **payment gateway integration**
+* Fully responsive and **SEO optimized storefront**
+
+### Tech Stack
+
+Frontend (Store): **Next.js**
+Admin Panel: **React + Vite.js**
+Backend: **Node.js + Express.js**
+Database: **MongoDB**
+Server: **Linux Server Deployment**
+
+### Development
+
+Built and maintained by a **2-member development team**, handling:
+
+* Full stack development
+* Server deployment
+* Payment integration
+* Database management
 
 ---
 
@@ -66,33 +110,11 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 📦 ERP System
-Enterprise Resource Planning system built with **React + Node.js**
-
-### 🎁 Carpenter Rewards System
-Mobile app where carpenters upload invoices and earn reward points.
-
-### 🚛 Logistics Management System
-Full logistics platform with **Node.js backend & React frontend**
-
-### 📱 React Native Label Printing App
-Bluetooth printing system using **ZPL printers**
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://dynamicpotfoliyo.web.app">
-Portfolio
-</a> |
-
-<a href="https://github.com/Jestinxavier">
-GitHub
-</a>
+<a href="https://dynamicpotfoliyo.web.app">Portfolio</a> | <a href="https://github.com/Jestinxavier">GitHub</a>
 
 </p>
 
